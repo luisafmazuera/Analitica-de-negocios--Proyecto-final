@@ -1,0 +1,1326 @@
+﻿Deutsche Bundesbank 
+Monthly Report 
+March 2020 
+17
+German balance of payments in 2019 
+In 2019, the German economy’s current account surplus decreased by ¼ percentage point to  7¼% of nominal gross domestic product (GDP). As in previous years, this was caused by a drop  in the goods trade surplus. Very sluggish global trade growth and composition effects left a  visible dent in Germany’s exports, whereas imports of goods saw relatively steep growth in spite  of the industrial downturn. Meanwhile, cheaper import prices, particularly for crude oil, made a  positive contribution to the foreign trade balance. Moreover, the increase in the primary income  surplus – attributable to Germany’s higher net external assets – boosted the surplus. Aggregate  net lending/net borrowing relative to GDP fell marginally in the reporting year. Both net invest 
+ment and savings of non-financial corporations declined amidst the ongoing bout of weakness in  exports and industry. Housing and government investment expanded substantially, however. 
+Germany’s capital flows reflected longer-term structural influences, such as growing asset diver sification and ongoing globalisation in the corporate sector, as well as changing political risks  and monetary policy measures. At €204½ billion, net capital exports were below the previous  year’s level. Portfolio investment as well as direct investment and other investment recorded out flows, on balance. 
+The composition of the capital flows changed distinctly in some cases. For example, for the first  time since 2014, foreign investors again made net purchases of German securities. In the inter vening years, during which the Eurosystem had made large-scale net purchases of bonds, sales  and redemptions had always predominated. In the other investment category, Germany’s  TARGET2 claims on the European Central Bank (ECB) declined perceptibly over the course of the  year. This, too, constituted a reversal in the trend of the preceding years. Germany’s outward  direct investment flows were below the previous year’s level, as were inward foreign direct invest ment flows. Even so, German foreign direct investment was still marginally higher than the aver age of the past ten years and proved relatively robust in the face of turbulent conditions in the  global economy. 
+Deutsche Bundesbank 
+Monthly Report 
+March 2020 
+18
+Current account 
+Underlying trends in the  
+current account 
+a three-year moving average of 6% of GDP set  by the European Commission as part of the  procedure for preventing and correcting macro economic imbalances will continue to be sur passed for the time being.3 
+Current account  surplus margin 
+Germany’s current account surplus went down  by €2 billion to €245½ billion in 2019. Relative  
+The slight decline in the current account bal 
+ally smaller Decline in goods  
+to nominal GDP, the balance declined by ¼ per centage point to 7¼%. As a result, the ratio is  now significantly lower than its peak of 8½%  of GDP in 2015, after having already decreased  in the three preceding years.1 As things stand,  it seems improbable that the German current  account balance will rise again in the coming  years.2 Even so, it is likely that the threshold of  
+Germany's current account 
+As a percentage of GDP 
+Current account balance 
+Components: 
+ance was due to partially countervailing move ments in the sub-accounts. The surplus in the  goods account decreased significantly in the  reporting year. This reflects both a smaller for eign trade surplus and a greater deficit in sup plementary trade items. Volume effects result ing from weak export growth and compara tively robust domestic demand reduced the  surplus in the year under review. This was  counteracted by price effects owing to the  marked improvement in the terms of trade  brought about by the lower crude oil price. In  addition, the deficit in the services account rose  marginally. As in previous years, the increase in  
+trade surplus  a key factor;  surplus boosted  by increase in  primary income  surplus 
++ 
+Trade in goods1 Services excluding 
+Primary income Secondary income 
+the primary income surplus had a surplus 
++ + + + + 
+– – – 
+12 10 8 
+6 
+4 
+2 
+0 
+2 
+4 
+6 
+travel 
+Travel 
+Overall of which 
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	With the euro area countries
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+boosting effect. Here, the increase in Germa ny’s net external assets more than compen sated for the dampening effects of the less  favourable yield differential and the further  drop in the yield level. The traditional deficit in  the secondary income account declined slightly. 
+Owing to the slowdown in the global econ omy, German enterprises faced less favourable  global economic conditions on the demand  
+side in 2019. The pace of world trade stem + 6 
+ming from both advanced and emerging mar 
+Global  
+economic 
+conditions less  favourable 
+(enlarged scale)
+1999 00 05 10 15 19 
++ 5 
+ket economies was very muted. By contrast,  + 4 
+the slight depreciation of the euro is likely to  have boosted German export revenue. Its nom 
++ 3 
+inal effective exchange rate against the curren 
++ 2 
+cies of the euro area’s 38 most important trad 
++ 1 
+ing partners, on average across 2019, was  
+0 
+roughly 1% lower than the previous year’s  – 1 
+– 2 
+1 For a longer-term analysis of German net exports from  
+– 3 
+the perspective of the federal states, see the box on  pp. 19-21ff. 
+1 Special trade according to the official foreign trade statistics,  including supplementary trade items, with freight and insur ance costs also being deducted from imports. 
+Deutsche Bundesbank 
+2 See Deutsche Bundesbank (2019a). 
+3 In the in-depth review as part of the 2020 European  Semester, the European Commission classified Germany as  once again having macroeconomic imbalances. See Euro pean Commission (2020). 
+Deutsche Bundesbank 
+Monthly Report 
+March 2020 
+19
+German net exports from the perspective  
+of the federal states 
+Current account surpluses have been a dis tinguishing feature of Germany’s economy  since the 1950s. What is striking is the cur rent account defi cit which persisted for  some time in the 1990s following German  reunifi cation. It was followed by current ac count surpluses which were very large and  persistent, even by historical standards.1 Below, we analyse how the individual fed eral states contributed to the dynamics of  German net exports. This can provide in sights into the extent to which their trend  increase in the period from 1995 to 2016  can be linked to reunifi cation and the ex tent to which this increase therefore repre sents an exception in historical terms. 
+Regional accounts data at federal state level  can be used to analyse regional contribu tions to German net exports. In conceptual  terms, a distinction is drawn between net  exports and the current account balance.2 Nevertheless, net exports are likely to pro vide meaningful information on the devel opment of Germany’s current account  given that they were responsible, in arith metical terms, for the majority of the cur rent account balance’s dynamics following  
+1 Aside from that, there were only isolated current ac count defi cits during the economic downturns of the  late 1960s and early 1980s. 
+2 The current account balance equals the sum of net  exports and the primary and secondary income bal ance. 
+3 In addition, in the national accounts equation for net  exports, changes in inventories, acquisitions less dis posals of valuables and statistical discrepancies are fac tored out, though no data broken down according to  federal states are available for this. The net exports of  a federal state calculated in this way are, however, not  necessarily identical to their cross- border foreign trade  balance, since they also include intra- German pur chases and sales of goods and services. Even so, the  sum of the net exports of all federal states corresponds  to the German net exports since the intra- German bal ances add up to zero. 
+4 See Deutsche Bundesbank (1999) and Federal Statis tical Offi ce (2000). 
+reunifi cation. Net exports broken down ac cording to federal states can be determined  approximately as the difference between  gross domestic product (GDP) and private  and public consumption as well as gross  fi xed capital formation.3 
+While the net exports of the German Demo cratic Republic were largely low,4 the east ern federal states experienced negative net  exports following reunifi cation, reaching  their highest level in 1994 at 6.1% of total  German GDP. The slump in German net ex ports following reunifi cation was therefore  mainly attributable to developments in the  eastern federal states, while the positive net  exports in the western federal states re mained largely unchanged during this  period. Following the reunifi cation boom,  the negative net exports in the eastern fed 
+Contributions of the federal states to  Germany´s net exports in 2016* 
+As a percentage of German GDP 
+– 0.4   0 + 0.4 + 0.8 + 1.6 + 2.0 
+Source: Bundesbank calculations based on the regional ac counts at federal state level. * Net exports (including intra German trade) determined approximately as the difference  between gross domestic product and private and public con sumption as well as gross fixed capital formation.  
+Deutsche Bundesbank 
+Deutsche Bundesbank 
+Monthly Report 
+March 2020 
+20
+Net exports 
+Former West Germany, 
+from 1991 on western federal states incl. Berlin 
+German Democratic Republic,  
+from 1991 on eastern federal states excl. Berlin1 
+Total 
+siderable differences particularly in the con tributions to German net exports made by  the eastern and western federal states. The  western federal states tended to exhibit a  surplus position, while the eastern federal  states (excluding Berlin) still generated a  
++ 
+10 
+As a percentage  of the respective 
+As a percentage of the  
+marginal defi cit despite the steep decline in  
++ + + + 
+– – – 
+8 6 4 2 0 2 4 6 
+GDP 
+
+
+	
+
+	Federal Republic of Germany’s GDP
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+large defi cits following the reunifi cation  boom described above.6 Overall, the west ern federal states generated a surplus of  8.8% of total German GDP in 2016. By con trast, the eastern federal states exhibited a  defi cit of 1.4% of GDP.7 
+In addition to the descriptive evaluations,  decomposition analyses can provide indica 
+1978 80 85 90 95 00 05 10 15 
+Source: Bundesbank calculations based on the regional ac counts at federal state level and the results of the 2005 round  of revisions to the national and regional accounts. Accounts  data for the former German Democratic Republic are taken  from the Federal Statistical Office (2000). Net exports deter mined approximately as the difference between gross domestic  product and private and public consumption as well as gross  
+fixed capital formation. 1 Figures are not available for 1990. Deutsche Bundesbank 
+eral states receded, at fi rst signifi cantly, and  later with reduced speed. Although the net  exports in the western federal states also  tended to rise in the period following reuni 
+fi cation until 2016, depending on the refer ence year, between roughly one- half and  two- thirds of the growth in Germany’s net  exports was accounted for by the eastern  federal states from the 1990s on.5 Viewed  from this perspective, the sharp increase in  Germany’s current account balance since  the late 1990s frequently discussed in the  literature is likely to be attributable in large  part to adjustment processes in the eastern  federal states. 
+In 2016 – the most recent regional accounts  data at federal state level in the degree of  detail required for the analysis – Germany  generated a net export surplus of 7.4% of  GDP. In purely arithmetical terms, this was  distributed very unevenly across the Ger 
+man federal states. Overall, there were con 
+tions of which factors have contributed to  the changes in the net exports of the west ern and eastern federal states.8 In purely  arithmetical terms, a decline in investments  relative to GDP in the eastern federal states  as well as a fall in private consumption rela tive to GDP in the western federal states  were the key factors behind the increase in  
+5 A role is likely to have been played initially by adjust ment processes following the reunifi cation boom, but,  at the same time, also by causes similar to those in the  western federal states. The persistent differences in net  exports between the western and eastern federal  states could, for example, be related to location deci sions taken by enterprises based on economic and his torical factors. 
+6 In purely arithmetical terms, the largest contributions  to Germany’s surplus (in each case in percentage  points) came from North Rhine- Westphalia (2.0),  Bavaria (2.0), Baden- Württemberg (1.8) and Hesse  (1.5). Conversely, the contributions of Brandenburg  (-0.4), Saxony (-0.3), Schleswig- Holstein (-0.3) and  Mecklenburg- Vorpommern (-0.3) were the most  dampening, in arithmetical terms. 
+7 The current account defi cit (current account surplus)  of the eastern (western) federal states is, however,  likely to have been signifi cantly larger than is sug gested by the analysis of the net exports on account of  transfer payments to the eastern federal states. See  also Blum et al. (2009). 
+8 In this analysis, changes in the net exports were  decom posed into contributions from private consump tion, public consumption and gross fi xed capital  forma tion. Furthermore, gross fi xed capital formation  was subdivided into investments in new buildings, new  machinery and equipment, and existing plants, and  private consumption was subdivided into disposable  income, changes in pension entitlements and house 
+hold saving. 
+Deutsche Bundesbank 
+Monthly Report 
+March 2020 
+21
+Contributions to the changes in German net exports between 1995 and 2016 
+As percentage points of GDP 
++ + + + + 
+– 
+5 
+Western federal states Eastern federal states 
+4 
+Residual1 
+3 
+Private consumption 
+2 
+Public consumption 
+1 
+Gross fixed capital formation 
+Total 
+0 
+1 
+Source: Bundesbank calculations based on the regional accounts at federal state level. Positive contributions from private consumption,  public consumption and gross fixed capital formation to the changes in German net exports correspond to decreases in the respective  accounts components. 1 Change in the shares of the western and eastern federal states in total German GDP. By definition, the contri butions of the western and eastern federal states add up to zero. 
+Deutsche Bundesbank 
+German net exports in the period from  
+1995 onwards.9 The main reason for the  
+weak contribution of investments to the  
+increase in German net exports was the  
+reduced new construction activity following  
+the high level in the early 1990s.10 Mean 
+while, the contribution made by declining  
+private consumption in the western federal  
+states (as a percentage of GDP) played a  
+key role in the increase in German net ex 
+ports roughly from the upturn of 2006-07  
+onwards. The weak increase in private con 
+sumption in this period in comparison to  
+GDP growth is largely attributable to the fall  
+in disposable income relative to GDP. 
+To sum up, more than half of the increase  
+in German net exports since 1995 is attrib 
+utable to the reduction in the negative net  
+exports of the eastern federal states which  
+arose following reunifi cation. All the same,  
+Germany’s high net exports in 2016, too,  
+were still primarily attributable to the strong  
+net exports of the western federal states.  
+The results of the analysis suggest that the  
+dynamics of Germany’s current account  since the late 1990s cannot be viewed in  isolation from the economic adjustment  processes in the wake of reunifi cation. 
+9 1995 serves as the reference year for this analysis  since, at that point in time, the economic turmoil  result ing directly from reunifi cation had largely sub sided. 
+10 The contribution from investment in machinery and  equipment varies considerably depending on the refer ence year. 
+Deutsche Bundesbank 
+Monthly Report 
+March 2020 
+22
+Price and volume effects on the  
+German foreign trade balance* 
+€ billion 
+260 
+marginally. Imports benefited from domestic  demand, which remained upbeat, even though  growth in the volume of imports lagged behind  that of previous years, partly because of the  
+230 
+Log scale 
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Annual percentage change
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+downturn in Germany’s industrial sector. The  lower import prices – and slightly more expen 
+200 170 
+140 
+Foreign trade balance
+Lin scale 
+of which 
+Volume effect
+Price effect
++ 90 + 60 + 30 0 
+– 30 – 60 – 90 
+sive goods exports – meant that import growth  outstripped export growth to a lesser degree in  nominal terms than in real terms. On balance,  the foreign trade surplus fell by €5 billion to  €223½ billion in 2019, with volume effects 
+(-0.6% of GDP) more than compensating for  the price effects (0.5% of GDP) resulting from  the more favourable terms of trade. 
+In regional terms, the current account surplus  vis-à-vis both euro area countries and non-euro  area countries saw a marginal decline to 2¼%  and just under 5% of GDP, respectively. In both  cases, developments in goods trade were of  
+Surplus against  both euro area  and non-euro  area countries  marginally  
+reduced 
+Weak global  demand damp ened German  foreign trade  surplus; counter vailing price  
+effects 
+2005 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+Source of unadjusted figures: Federal Statistical Office.  * Decomposed using the Shapley-Siegel index. 
+Deutsche Bundesbank 
+level. The euro depreciated against the Japan ese yen and US dollar in particular, but also  against the Swiss franc. Germany’s price com petitiveness improved slightly as a result of this.  Cheaper import prices, especially for crude oil,  also provided tailwinds for economic activity in  Germany. A barrel of Brent crude oil cost an  average of US$64 in 2019 – roughly one-tenth  less than in the previous year. 
+Aside from generally weak global demand,  composition effects also put a strain on Ger many’s export revenue. On the one hand,  domestic enterprises were particularly affected  by the global slowdown in industrial output  and investment given that capital goods (ex cluding motor vehicles and motor vehicle parts)  and intermediate goods make up a large share  of Germany’s exports. On the other hand, the  decline in global car sales left a dent in the  automotive sector’s exports, which are an im portant component of Germany’s exports. In  net terms, exports of goods expanded only  
+crucial importance. 
+Aggregate net lending/net borrowing relative  to GDP fell marginally in the reporting year.  This occurred against a background of de creases in domestic investment as well as in  national savings. The growth rate of business  investment contracted markedly amidst the  ongoing weakness in exports and the industrial  sector. In contrast to this, there was a relatively  large increase in housing investment, in par ticular, but also in government investment. Sav ing by non-financial corporations, which had  risen steeply up until 2015, dipped further in  the reporting year, partly because enterprises’  payout ratio increased again.4 Enterprises now  have a comparatively sound equity base, but  also a less favourable profit situation amidst  robust wage growth, and both factors may  have played a role here.5 Saving by general  government was also on the decline given the  loosened fiscal policy. On balance, net lending  by non-financial corporations rose significantly,  while general government net lending declined  considerably. Meanwhile, net lending by house 
+4 See Deutsche Bundesbank (2019b, 2018a). 5 See Deutsche Bundesbank (2019c). 
+Drop in  
+investment and  aggregate  
+savings 
+holds and financial corporations remained  broadly unchanged. 
+Deutsche Bundesbank 
+Monthly Report 
+March 2020 
+23
+Savings and investment in the German  
+economy 
+As a percentage of GDP 
+Exports very  
+subdued, import  growth slowed  further 
+Very muted  
+growth in  
+exports to  
+euro area  
+countries … 
+Goods flows and balance of  
+29 
+trade 
+26 
+The increase in Germany’s foreign trade activ 
+23 
+ities experienced another slowdown in 2019.  20 
+On an annual average, exports of goods rose  by just ¼% in price-adjusted terms.6 On aver 17 
+age in 2019, imports of goods expanded much  more strongly than exports, at 2¼%, but also  lost momentum. Foreign manufacturers felt the  result of Germany’s industrial downturn in the  shape of very muted growth in demand for  machinery and equipment, which has a rela 
+tively high import content, as well as for inter mediate goods. This was only partially offset by  brisker consumer spending and stronger de mand for motor vehicles and motor vehicle  parts. 
+In regional terms, export business with the  most important sales regions predominantly  developed less favourably than in the previous  year. Price-adjusted exports to euro area coun 
+tries grew only a little overall. In terms of value,  
+Gross capital  formation
+	
+
+	
+
+	
+
+	1
+	
+
+	
+
+	
+
+	Net lending/net borrowingof which
+	
+
+	Financial corporationsNon-financial corporations
+	
+
+	Households and non-profit institutions serving householdsGeneral government
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	2
+	
+
+	
+
+
+
+Savings
+ 
++15 +12 + 9 + 6 + 3 0 
+– 3 – 6 – 9 –12 
+… and to non euro area sales  region 
+they merely reached the previous year’s level.  While revenue from deliveries to Belgium, Por tugal and Greece rose strongly, exports to most  partner countries, including to France (exclud ing other transport equipment7), lost momen tum or weakened. Declining deliveries to Ire land and Italy had a significant dampening  effect. 
+Exports to countries outside the euro area like wise saw only a marginal increase in price adjusted terms. In nominal terms, however,  there was distinct growth in export revenue, as  higher export prices were charged overall. For  example, a robust increase was recorded in ex ports to the United States – probably also given  an additional boost by the depreciation of the  euro – as well as to Switzerland and to Russia.  Although exports to China expanded at an  above average rate, they lost a significant  
+1991 95 00 05 10 15 19 
+1 lncluding consumption of fixed capital. 2 One-off effect  caused mainly by assumption of Treuhand debt by general  government. 
+Deutsche Bundesbank 
+amount of momentum as growth in China  gradually slowed and the realignment of its  economy continued.8 Sales to Japan likewise  rose at a slower pace than in the previous year.  German manufacturers also suffered setbacks  in exports to other south and east Asian coun 
+6 Viewed over the period, too, by the end of 2019, goods  exports topped the level of the final quarter of the previous  year a little overall (+½%) in price-adjusted terms. 7 Of significance here are mainly aircraft and spacecraft,  which, on account of the joint European manufacturing  arrangement, have a particular influence on the bilateral  trade flows of the countries involved, as well as ships and  boats and railway locomotives and rolling stock. 8 For more on the realignment of the Chinese economy  and its global implications, see Deutsche Bundesbank  (2018b). 
+Deutsche Bundesbank 
+Monthly Report 
+March 2020 
+24
+Foreign trade by region 
+% 
+Per 
+cent 
+age  
+Annual percentage 
+tries, particularly to the newly industrialised  economies. The value of exports to the United  Kingdom declined sharply on an annual aver age, with a role played by the UK’s drop in in dustrial production and sluggish demand for  machinery and equipment in view of Brexit as  well as composition effects. Additionally, there  
+Country/ 
+share 
+change 
+group of countries Exports 
+2019 
+	2017 
+	2018 
+	
+
+
+
+2019 
+was a significant drop in exports to OPEC coun tries. Revenue growth for exports to central  
+Euro area 37.1 6.8 4.5 0.0 Other countries 62.9 5.9 2.1 1.3 of which: 
+United Kingdom 5.9 –  0.6 –  3.8 –  4.2 Central and  
+eastern European  
+EU countries1 12.2 9.1 6.7 2.8 Switzerland 4.2 7.5 0.2 4.3 Russia 2.0 19.7 0.5 2.6 United States 8.9 4.7 1.4 4.7 Japan 1.6 6.8 4.6 1.1 
+Newly industrial 
+ised economies  
+in Asia2 2.9 1.8 0.7 –  2.5 China 7.2 13.3 8.0 3.2 South and east  
+Asian emerging  
+market economies3 2.4 9.9 13.0 –  0.7 OPEC 1.7 – 12.0 – 15.8 –  2.9 All countries 100.0 6.2 3.0 0.8 
+Imports 
+Euro area 37.1 5.5 7.2 0.8 Other countries 62.9 9.4 4.7 1.8 of which: 
+United Kingdom 3.5 3.3 0.6 3.5 Central and  
+eastern European  
+EU countries1 14.2 9.4 6.3 2.9 Switzerland 4.2 4.1 0.5 0.9 Russia 2.8 18.5 14.7 – 13.2 United States 6.5 6.8 4.2 10.7 Japan 2.2 4.7 3.3 1.0 
+Newly industrial 
+ised economies  
+in Asia2 2.7 23.3 6.0 –  2.3 China 9.9 8.1 4.2 3.4 South and east  
+Asian emerging  
+market economies3 3.7 11.5 2.3 0.2 OPEC 1.0 43.4 20.2 –  5.5 All countries 100.0 8.0 5.6 1.4 
+1 Bulgaria, Croatia, Czech Republic, Hungary, Poland, Romania.  2 Hong Kong, Singapore, South Korea, Taiwan. 3 India, Indo nesia, Malaysia, Philippines, Thailand, Vietnam. 
+Deutsche Bundesbank 
+and eastern European countries belonging to  the EU but not the euro area was also distinctly  down on the previous year. 
+Sluggish global industrial activity and the very  subdued growth in world trade were felt mainly  by German exporters of capital and intermedi ate goods. In price-adjusted terms, there was  an especially steep reduction in exports of  motor vehicles and motor vehicle parts, which  suffered from the globally overall weaker de mand for motor vehicles. As a result, exports of  motor vehicles and motor vehicle parts to im portant sales markets such as the euro area,  the other central and eastern European EU  countries, the United Kingdom and the United  States declined markedly in terms of value.  After very strong growth previously, sales to  China provided a much smaller positive stimu lus. Subdued deliveries of other categories of  goods were also a distinct dampener. Price adjusted exports of classic capital goods such  as machinery remained slightly below the previ ous year’s level. Deliveries of metals and fabri cated metal products, taken together, rose only  marginally. Exports of electrical equipment,  which had hitherto been expanding, experi enced weakened momentum in the reporting  year. By contrast, exports of chemical products  distinctly picked up pace after very muted de velopments. Deliveries of computers, electronic  and optical products continued to increase  relatively strongly. The upward trend in con sumer goods exports remained relatively robust  
+Exports of  
+capital and  
+intermediate  goods especially  subdued, but  consumer goods  relatively strong 
+Foreign trade by selected categories of goods in 2019 Percentage share 
+Exports 
+Deutsche Bundesbank 
+Monthly Report 
+March 2020 
+25
+Imports 
+Agricultural goods 
+0.8% Unclassifiable goods 
+Agricultural goods 3.0% 
+Unclassifiable goods 
+Energy 2.2% 
+Consumer 
+goods 
+18.6% 
+of which 
+Motor 
+vehicles 
+16.9% 
+3.0% 
+Intermediate 
+goods 
+30.5% 
+Capital goods 
+44.9% 
+4.7% 
+Energy 8.6% 
+Consumer 
+goods 
+21.6% 
+of which 
+Motor 
+vehicles 
+11.7% 
+Intermediate 
+goods 
+29.9% 
+Capital goods 32.1% 
+Source of unadjusted figures: Federal Statistical Office. May not add up to 100% due to rounding. Deutsche Bundesbank 
+Strong demand  for motor  
+vehicles and  
+consumer goods  produced  
+abroad; more  muted need for  imports of inter mediate and  other capital  goods 
+and even strengthened when disregarding  pharmaceutical exports.9 
+The growth in demand from Germany did not  cover the entire range of foreign products.  Demand from German consumers remained  robust, benefiting foreign manufacturers of  consumer goods, which increased their deliver 
+ies more strongly than in 2018 in price-adjusted  terms. In addition, imports of motor vehicles  and motor vehicle parts picked up speed. This  might also have been because stricter CO2 
+emissions standards for newly registered motor  vehicles apply in the EU from 2020. In particu lar, purchases of computers, electronic and  optical products abroad increased relatively  strongly. In contrast to this, Germany’s indus trial downturn mainly affected foreign manu facturers of intermediate goods and classic  capital goods. The price-adjusted German sales  of foreign manufacturers of machinery re mained slightly below the previous year’s level.  Imports of metals and fabricated metal prod ucts also decreased. Imports of chemical prod ucts as well as electrical equipment were rela tively good, but distinctly more subdued than  in 2018. 
+Throughout the region in 2019, the robust rise  in import demand benefited producers in the  euro area to a slightly greater extent in price 
+adjusted terms than producers from other  countries. Among the more significant sup pliers from the euro area, the value of imports  from Italy and Belgium fell sharply, whilst im ports from Spain and Austria saw relatively sub stantial growth. Among the non-euro area  countries, deliveries from the United States  grew very strongly. Imports from the United  Kingdom likewise increased relatively steeply.  Growth in deliveries from China and from the  central and eastern European EU Member  States outside of the euro area was above aver age, although more restrained than in the pre vious year. Imports from Japan and, above all,  from other industrial and emerging market  economies in South and East Asia showed rela tively muted developments. Furthermore, the  income of major energy suppliers such as  Russia and the OPEC countries from sales to  Germany was in sharp decline, likely also due  to the drop in prices for energy products. 
+The surplus in goods trade – which comprises  supplementary trade items, merchanting and  non-monetary gold trade alongside foreign  
+9 These only slightly exceeded their strongly elevated prior year level. This is due to a strong increase in pharmaceut ical exports to non-euro area countries, which more than  compensated for the significant fall in deliveries to the euro  area, which themselves had expanded considerably in  2018. 
+Robust import  demand slightly  more beneficial  in price-adjusted  terms to sup 
+pliers from euro  area than those  from outside of  euro area 
+Deutsche Bundesbank Monthly Report 
+March 2020 
+26
+Rise in net  
+income for mer chanting and  exports of non monetary gold;  declining activity  in domestic pro cessing 
+Moderate  
+momentum in  services sales … 
+… especially in  travel 
+trade10 – fell by just under €5 billion to €221½  billion in 2019. Although the decline was thus  similar to the one recorded in the balance of  foreign trade, it was based on partially oppos 
+ing movements in the three other items. In par ticular, net receipts from merchanting rose by  €4 billion. In this context, a major role was  played by the increased (net) earnings in the  automotive industry, which account for a con siderable proportion of such transactions. In  addition, net exports of non-monetary gold  grew by €3½ billion due to greater exports.  This was attributable primarily to exports to the  United Kingdom, Switzerland and Canada,  which generally account for a large share of  these exports. However, the increases in these  two sub-items were more or less cancelled out  by a higher deficit in the balance of supple mentary trade items. A particular contribution  was made to this by a fairly sharp fall in imports  for processing in Germany. 
+Invisible current transactions 
+From Germany’s perspective, the balance in the  cross-border exchange of services is tradition ally negative and recorded a deficit of €20½  billion in 2019. Both services income and ser vices expenditure grew at a rate of 4½%, which  is rather moderate in comparison to previous  years. Due to the higher level of expenditure,  the deficit rose slightly on the year by just  under €1 billion. In the reporting period, at a  total of €23½ billion, more services were pur chased by Germany from non-resident pro viders in the euro area than were purchased by  persons in the euro area from Germany; as a  result, the deficit vis-à-vis the rest of the euro  area widened by €1½ billion compared to  2018. By contrast, there was a rise in the slight  surplus in the services account vis-à-vis non euro area countries. 
+The largest net position within services was the  deficit in the balance of cross-border travel,  which, at around €45 billion, widened margin ally on the year. Growth in income as well as  
+travel expenditure was highly subdued in com parison to previous years, which could also be  related to weaker global economic develop ments. In particular, expenditure for business  travel remained more or less unchanged after  falling sharply last year. Within travel expend iture, which rose slightly, travel destinations  shifted away from the United Kingdom and  Croatia and towards euro area countries. 
+In line with the weak economic activity, the ser vices sub-accounts related to goods trade saw  below-average growth. This held especially  true for transport expenditure, which followed  the subdued export trend. As the income from  transport services for non-residents grew to a  considerably greater extent, this traditionally  negative sub-account achieved a surplus of €½  billion in 2019 after posting a deficit of €2 bil lion in the previous year. A similar situation was  observed in manufacturing services, which saw  declines in both income and expenditure. By  contrast, there was notably strong momentum  in cross-border maintenance and repair ser vices, which nevertheless continued to post a  balanced account. 
+Some knowledge-based services, such as the  use of intellectual property and communica tions and IT services, have already been exhibit ing strong growth for some time now in terms  of both income and expenditure. In the year  under review, growth on the income side  slowed while spending continued to increase  dynamically; as a result, the common surplus of  both sub-accounts fell slightly. There was also  comparatively weak growth in income related  to other business services, which include re search and development, professional, tech nical and commercial services, as well as man agement consultancy services. As expenditure  
+10 In accordance with the current edition of the Balance of  Payments and International Investment Position Manual  (BPM6), trade with non-monetary gold must be shown  separately in the current account. If corresponding pay 
+ments have already been captured in foreign trade, these  are recorded as deductions in the supplementary trade  items in order to avoid duplication. See International Mon etary Fund (2009). 
+Below-average  growth in sub accounts related  to goods trade 
+Knowledge 
+based and  
+business services  record stronger  growth in  
+expenditure, but  income sees  
+little expansion 
+rose to a greater extent than income here, too,  the deficit in this sub-account widened. The  surplus in cross-border fees for financial and in surance services grew slightly, which was pri 
+Key indicators of the cross-border  investment income balance 
+€ billion 
+Deutsche Bundesbank Monthly Report 
+March 2020 
+27
+Q3 
+Moderate rise in  investment  
+income surplus 
+marily attributable to increased earnings from  financial services. 
+Germany’s primary income from abroad in  2019 exceeded its corresponding payments to  the rest of the world by €92½ billion. As in the  preceding years, cross-border investment in 
+come was the major factor in primary income  growth, while the flows of employee compen sation and other primary income each largely  continued to lead to marginal deficits in the re spective sub-accounts. In the reporting year,  the surplus in cross-border investment income  saw comparatively moderate growth of €3 bil lion and, according to provisional calculations,  totalled €94½ billion after having risen very  
+2,400 2,100 1,800 1,500 1,200 900 
+600 
+300 
+0 
+
+
+	
+
+	1
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Assets
+	
+
+	
+
+	
+
+	Liabilities
+	
+
+	
+
+
+
+Net external assets
+Investment
+income balance
+(enlarged scale)
+€ billion +120 
++ 90 
++ 60 
++ 30 
+0 
+substantially in some cases in the preceding  years.11 In this context, residents’ income from  investments abroad rose only a little; expend iture for investors and capital donors from  abroad was just marginally higher than the  figures from the previous year. In arithmetical  terms, the increase in Germany’s net external  assets was the main contributor to the higher  
+5Yield % 2 
+4 
+3 
+2 
+1 
+1999 00 05 10 15 19 
+– 30 
+Deficit in sec ondary income  balance narrows  
+surplus. By contrast, a dampening effect  stemmed from the fact that the yield level con tinued to sink in 2019 and that the yield differ ential developed to the detriment of Ger many.12 
+In 2019, the deficit in cross-border secondary  income amounted to €47½ billion – €1 billion  less than in 2018. Unilateral payments from  
+1 Direct, portfolio and other investment and reserve assets. Ex cluding financial derivatives. 2 Yields shown in terms of invest ment income/expenditure as a percentage of the annual aver age levels of foreign assets and liabilities. IIP as at the end of  
+Q3 2019. 
+Deutsche Bundesbank 
+Capital movements 
+In 2019, Germany’s current account surplus  
+slightly Germany’s net  
+abroad rose by €3½ billion, with government  and non-government income rising in roughly  equal measure. This also included a marked  increase in Germany’s tax revenue from non 
+residents’ income and assets. On the expend iture side, spending rose by €2½ billion over  2018, primarily due to government benefits.  Only a small portion of this rise was attribut able to the private sector. Amongst other  things, there was a slight increase in remit tances. 
+was mirrored by net capital exports of €204½  billion. In portfolio investment, especially, pur chases of foreign assets by residents out weighed purchases of German securities by  
+11 Final figures for direct investment income are not avail able until two years after they have been received and the  reports they are based on have been examined – currently,  
+this comprises the years up to and including 2017. 12 For methodological details on the breakdown of the  changes in the balance of cross-border investment income,  see Deutsche Bundesbank (2015); Knetsch and Nagengast  (2017). 
+capital exports  lower than in  previous year 
+Deutsche Bundesbank 
+Monthly Report 
+March 2020 
+28
+Major items of the balance of payments 
+€ billion 
+Item 2017r 2018r 2019r 
+I. Current account + 253.9 + 247.4 + 245.5 
+1. Goods1 + 252.8 + 226.2 + 221.3 
+Exports (f.o.b.) 1,256.5 1,292.9 1,307.8 
+Imports (f.o.b.) 1,003.7 1,066.8 1,086.5 
+Memo item: 
+Foreign trade2 + 247.9 + 228.7 + 223.5 
+Exports (f.o.b.) 1,279.0 1,317.4 1,327.8 
+Imports (c.i.f.) 1,031.0 1,088.7 1,104.3 
+2. Services3 –  24.4 –  19.7 –  20.5 
+of which: 
+Travel –  43.6 –  44.5 –  44.9 
+3. Primary income +  75.4 +  89.5 +  92.3 
+of which: 
+Investment income +  77.3 +  91.4 +  94.5 
+4. Secondary income –  50.0 –  48.6 –  47.6 
+II. Capital account –  3.0 +  0.4 –  0.3 
+III. Financial account balance4 + 283.2 + 236.9 + 204.6 
+1. Direct investment +  38.7 +  4.4 +  55.7 
+2. Portfolio investment + 205.3 + 157.2 +  95.2 
+3. Financial derivatives5 +  11.0 +  23.1 +  22.4 
+4. Other investment6 +  29.5 +  51.8 +  31.9 
+5. Reserve assets –  1.3 +  0.4 –  0.5 
+IV. Errors and omissions7 +  32.3 –  10.9 –  40.6 
+1 Excluding freight and insurance costs of foreign trade. 2 Spe 
+cial trade according to the offi cial foreign trade statistics (source:  Federal Statistical Offi ce). 3 Including freight and insurance costs  of foreign trade. 4 Increase in net external position: + / decrease  in net external position: -. 5 Balance of transactions arising from  options and fi nancial futures contracts as well as employee  stock options. 6 Includes, in particular, loans and trade credits as  well as currency and deposits. 7 Statistical errors and omissions  resulting from the difference between the balance on the fi nan 
+cial account and the balances on the current account and the  capital account. 
+Deutsche Bundesbank 
+non-residents; however, outflows of funds  dominated in direct investment and other  investment, too. Alongside the fundamental  economic factors that helped determined the  current account balance, diminishing political  risks over the course of the year as well as the  European monetary policy stance had an im 
+pact on German capital movements last year. 
+After the date for the United Kingdom’s with drawal from the European Union had been  postponed multiple times at the start of the  year, in the second half of the year there were  signs of a solution that would avoid a hard pol itical and economic split for the time being.13 Furthermore, in December, the United States  and China reached a partial agreement in their  trade dispute, which had been mounting for  years. Both of these developments contributed  to the lower risk evaluation on the international  financial markets over the course of the year. 
+After four years, the Eurosystem temporarily  suspended its net purchases under the ex panded asset purchase programme (APP) at the  end of 2018. Up until October last year, only  maturing bonds were replaced. It was not until  November 2019 that the national central banks  and the ECB again began purchasing additional  securities (€20 billion net per month). In the  German financial account, this had an impact  not only on portfolio investment, but also on  other investment. In the years prior, German  TARGET2 claims had risen continuously in con 
+nection with the net asset purchases.14 When  this driver was lost at the start of 2019, the bal ance initially stabilised and even recorded a de cline over the entire year. This development im pacted other investment as Bundesbank capital  imports.15 
+13 The United Kingdom exited the EU on 31 January 2020.  The withdrawal agreement stipulates that the United King dom will remain in the single European market until at least  the end of 2020. By that time, it is intended that a compre 
+hensive free trade agreement will be negotiated. 14 See Deutsche Bundesbank (2017a). 
+15 For more information on the driving forces of German  TARGET balances, see pp. 30-33 ff. 
+Uncertainty on  international  financial mar kets improves  slightly over the  course of the  year 
+Eurosystem  
+temporarily 
+suspends net  asset purchases 
+Non-resident  investors add  debt securities  
+Portfolio investment 
+Portfolio investment generated net capital ex ports of €95 billion in 2019, following €157 bil lion one year earlier. The lower balance is due  
+Deutsche Bundesbank 
+Monthly Report 
+March 2020 
+29
+Major items of the German balance of 
+payments 
+Balances in € billion 
+2019 
+to their port folios in net  terms 
+to a massive shift in demand for German secur ities among non-resident investors. In net  terms, non-resident investors added German  securities totalling €28½ billion to their port folios in 2019. In 2018, they had offloaded Ger man securities to the amount of €74 billion.  Although non-resident investors continued to  sell off public sector bonds, the volume sold  was – at €7 billion – considerably below the  figure recorded last year. The temporary sus pension of the APP might have been a reason  for this. As a result, the Bundesbank purchased  no additional securities from January to Octo ber. Another highly significant factor in this  
+Current account 
+Financial account 1 
+Direct investment 
+Portfolio 
+investment 
+Financial 
+derivatives 
+Other 
+investment2 
+Errors and 
+omissions 3 
+2018 
+Shares and  mutual fund  
+shift was the increased demand for private  bonds – non-resident investors acquired both  corporate bonds as well as bank bonds. Ultim ately, they also added more money market  paper (€7 billion) to their portfolios in 2019  than they had in 2018. 
+In contrast to debt securities, and despite very  favourable overall stock price performance on  
+– 80 0 + 80 + 160 + 240 
+1 Excluding transaction-related changes in reserve assets; net  capital exports: +. 2 Includes, in particular, loans and trade  credits as well as currency and deposits. 3 Statistical errors and  omissions. 
+Deutsche Bundesbank 
+Portfolio investment in the German  balance of payments 
+€ billion 
+shares sold off 
+German invest ors chiefly inter ested in euro denominated  bonds 
++ 
+the German equity market over the year, shares  
+240 
+in German-domiciled enterprises were sold off  + 
+200 
+by non-resident investors in net terms (€6½ bil lion). With regard to mutual fund shares, sales  + 
+160 
+by non-resident investors resulted in outflows  of €5 billion in 2019. 
++ 
+120 
+Last year, domestic investors acquired a net  + 
+80 
+€123½ billion worth of foreign securities. This  + 
+40 
+meant that net purchases were considerably  
+higher on the year. As in 2018, German invest 0 
+ors focused their attention on bonds (€54½  billion). Amongst other factors, this could be  – 
+40 
+attributable to the yields on long-term Federal  bonds, which were overwhelmingly negative  – 
+80 
+and fell further over the course of the year. For – 
+120 
+eign bonds probably became more attractive to  investors because, although their yields were  
+Shares 
+Mutual fund shares
+
+
+	Bonds
+Money market instruments
+	
+
+	
+
+	Balance
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Foreign  
+investment in 
+Germany
+	
+
+	
+
+	German  
+investment abroad
+	
+
+	
+
+
+
+2013 2014 2015 2016 2017 2018 2019 
+also falling and they posed additional risks in  some cases, they promised higher returns.  
+Deutsche Bundesbank 
+Deutsche Bundesbank 
+Monthly Report 
+March 2020 
+30
+What drives Germany’s TARGET balances?* 
+A BVAR analysis for distinguishing global and  European causes 
+The present analysis aims to identify pos sible drivers of Germany’s TARGET balances  with the aid of a comparatively simple  Bayesian vector autoregression (BVAR)  model and place them in a historical con text. The balances have shown considerable  fl uctuations over the past years. In this  respect , four phases are typically identifi ed.1 
+During the fi rst phase, the national TARGET  balances moved at a low level following the  start of the third stage of economic and  monetary union and frequently changed  their signs. The cross- border redistribution  of liquidity in the euro area took place over 
+whelmingly through the private interbank  market. 
+The second phase was characterised by a  strong expansion of the national TARGET  balances. It began with the outbreak of the  global fi nancial crisis, which had its origin in  the sub- prime mortgage crisis in the United  States. As private commercial banks were  becoming increasingly mistrustful of each  other, the interbank market largely col lapsed. The Governing Council of the ECB  then adopted a series of non- standard  monetary policy measures in order to con 
+tinue supplying commercial banks with cen tral bank money. Above and beyond that,  the ECB and other central banks arranged  an international network of swap agree ments in order to safeguard access to for eign exchange as well.2 A further expansion  of the national TARGET balances ensued in  spring 2010 and became stronger in the  follow ing year. This occurred against the  backdrop of the European sovereign debt  crisis, which was again accompanied by a  generous provision of central bank money.  
+The funds on offer were utilised asymmet rically by the commercial banks of the  Member States and were deployed across  borders in some cases. 
+In summer 2012, this development resulted  in a period of easing with falling TARGET  balances (third phase). The commitment  made by Mario Draghi, who was President  of the ECB at the time, “to do whatever it  takes to preserve the euro” boosted the  fi nan cial markets’ confi dence in the con 
+tinued existence of monetary union. Fur thermore, the Eurosystem adopted a pro gramme of outright monetary transactions  (OMT), which so far has not been utilised,  however. 
+The fourth phase began in mid- 2014 and  brought with it a renewed rise in the na tional TARGET balances. In mid- 2018, Ger man claims reached an interim peak of  almost €1,000 billion. However, this in crease was not linked to a European or  global fi nancial crisis. Instead, it refl ected  the Eurosystem’s expanded asset purchase  programme (APP) in conjunction with Ger many as a fi nancial centre in its role as a  “gateway to the world”. 
+* TARGET, the real- time gross settlement (RTGS) system  for the Eurosystem, commenced operations on 4 Janu ary 1999, a few days after the launch of the euro.  Migration to the more advanced TARGET2 took place  gradually from 2007 to 2008. The term “TARGET” is  used here to refer to both the fi rst and second gener ations of the system. 
+1 See Deutsche Bundesbank (2019a, 2019b, 2017a,  2016). 
+2 The participants in the agreement – which is still in  force – are the ECB, the Fed, the Bank of Canada, the  Bank of England, the Bank of Japan, and the Swiss  National Bank. The provision of foreign currency to  European commercial banks via the Eurosystem led to  the ECB having a positive TARGET balance for a time in  2008 and 2009. 
+The following econometric analysis of Ger many’s TARGET balance relates to the  period from the beginning of 1999 to the  end of 2019. A BVAR model is used to iden tify the outlined driving forces and assign  them to the various episodes. 
+The model incorporates monthly data of  n = 5 variables: change in Germany’s  TARGET balances compared with the same  month of the previous year (variable: tar 
+gett; in euro), difference in yield between  bonds of other euro area countries and  Bunds (variable: EAspreadt; in percentage  points), difference in yield between ten- year  US Treasuries and Bunds (variable:  USspreadt; in percentage points), implied  volatility on the stock market as an indica tor of (global) uncertainty (variable: vixt; in  index points), and change in the sum of all  assets on the Eurosystem’s consolidated  balance sheet concerning monetary policy  operations compared with the same month  in the previous year (variable: balancet; in  euro).3 
+The data used accordingly cover the period  from January 1999 to December 2019.  However, owing to the use of year- on- year  changes, only data from January 2000 on 
+ward are available for the estimation. The  effective estimation period is further short ened by the inclusion of lags. 
+The BVAR model is estimated with a Minne sota prior.4 In total, 12 lags and thus a  whole year of back data are included. The  estimated reduced form BVAR model is rep resented as 
+yt = c +X12 
+Aiyt−i + ✏t 
+i=1 
+where yt = (y1,t,y2,t,…,yn,t) denotes an  n × 1 vector of the variables described  above, c a constant, Ai the n × n coeffi cient  
+Deutsche Bundesbank 
+Monthly Report 
+March 2020 
+31
+matrices of the observations yt-i lagged by i 
+units, and ϵt an n × 1 vector of residuals  
+that follows a multivariate normal distribu 
+tion (i.e. ϵt ~N(0,∑)). E(ϵt,ϵt ) = ∑ repre 
+sents the positively defined variance 
+covariance matrix of the residuals. 
+By means of sign restrictions on the impulse 
+response functions, the model is converted  
+into a structural form so that the shocks can  
+be interpreted in economic terms. These re 
+strictions have to be fulfi lled only in the  
+period in which the shock occurs. All the  
+shocks are defi ned such that they lead to an  
+increase in the variable targett. The other  
+restrictions are selected as shown in the  
+table on p. 32. 
+In line with the assumption, a global risk  
+shock results in capital fl ows to the United  
+States and also to Germany. Both countries  
+are seen as safe havens. Because of the  
+United States’ outstanding role as a safe  
+haven, the decline in yields in the United  
+States should more than offset the decline  
+in Germany, however, leading to a com 
+pression of the positive yield spread be 
+tween US Treasuries and Bunds during the  
+observation period. Based on the same line  
+of reasoning, an increase in the yield spread  
+between Bunds and bonds of other euro  
+3 The balance sheet items include items 5 (Lending to  
+euro area credit institutions related to monetary policy  
+operations denominated in euro) and 7.1 (Securities  
+held for monetary policy purposes). 
+4 Using a Minnesota prior, an existing a priori estima 
+tion regarding the model parameters is specifi ed for  
+the model. In this case, the following a priori values  
+are used: autoregressive coeffi cient: 0.8; overall tight 
+ness: 0.1; cross- variable weighting: 0.5; lag decay: 2;  
+exogenous variable tightness: 100; total number of  
+iter ations: 2,000; burn- in iterations: 1,000. The ECB’s  
+BEAR toolbox version 4.2 is used for the estimation. 
+Deutsche Bundesbank 
+Monthly Report 
+March 2020 
+32
+Restrictions assumed to identify various shocks 
+Variable Risk (global) Risk (euro area)ECB  
+monetary policy Res 1 Res 2 
+targett + + + + + EAspreadt + + – – + USspreadt – + * * * vixt + + * * – balancet * * + – * 
+Restrictions: + (–) = the given variable increases (decreases). * = no restriction imposed. Res 1 and Res 2 are shocks that are  identifi ed solely for technical reasons. No economic interpretation is assigned to them. 
+Deutsche Bundesbank 
+area countries is to be expected. The higher  risk should be refl ected in a rise in vix.5 
+The identifi cation of a shock confi ned to  the euro area rests on the assumption that  an increase in risk in the euro area leads to  capital fl ows from other euro area countries  to Germany. The reason for this is that Ger 
+many is seen as a safe haven within the  euro area. This should lead to higher yields  in other euro area countries. In Germany, by  contrast, declining yields are to be ex 
+pected, which should be refl ected in a  widening of the yield spread between  Germany and the other euro area countries.  As a result of the lower yields in Germany,  the yield spread between US Treasuries and  Bunds should also increase. Even though  the euro area represents only a (small)  part  of the global economy, it is to be  expected that there will be a tendency for  vix to rise. 
+The expansionary monetary policy shock is  understood as an expansion of the sum of  all the Eurosystem balance sheet items re lated to monetary policy operations. It is as sumed in this context that these reduce the  yield spreads between government bonds  of other euro area countries and Bunds. 
+These shocks are defi ned such that, overall,  no combination of impulse- response func tions is excluded and each shock neverthe less possesses an individual pattern, i.e. the  
+shocks are orthogonal to each other. The  residual shocks are identifi ed for purely  economic reasons and cannot therefore  be  inter preted in economic terms. These  shocks thus model additional factors that  do not fall into the above- mentioned cat 
+egories. 
+The BVAR estimation permits the time series  of all the variables involved to be broken  down into components, which are to be as signed to the shocks defi ned above. 
+The rise in German TARGET balances during  the global fi nancial crisis, which remained  moderate at fi rst, is not explained entirely  by the economically interpretable shocks.  Although it is indeed possible to recognise  that the global increase in risk played a  part, this is offset by a decline in risk in the  euro area (i.e. by a convergence of long 
+term interest rates among the Member  States). 
+Subsequently, at the peak of the European  debt crisis between 2010 and mid- 2012,  the dominant factor affecting German  
+5 This shock of rising global risk differs from a possible  monetary policy impulse from the United States in that  it has the opposite effect on vix. An accommodative  monetary policy by the Fed should, taken in isolation,  lower the risk assessment on the fi nancial markets. It is  not explicitly identifi ed as it is unlikely to have any  clear- cut and systematic impact on Germany’s TARGET  balances. Possible effects are captured in the model by  the two residual shocks. 
+Deutsche Bundesbank 
+Monthly Report 
+March 2020 
+33
+TARGET balance of the Bundesbank and the historical breakdown of the changes 
+€ billion 
++ + + + + 
+– 
+1,000 
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	of the y-o-y changes in the TARGET balance
+	
+
+	
+
+	
+
+	
+
+	1 
+	Actual change
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Monetary policy (euro area)
+	
+
+	
+
+	
+
+	Risk (euro area)
+	
+
+	
+
+	
+
+	
+
+
+
+800 
+TARGET balance
+600 
+400 
+200 
++ 400 
+0 
++ 300 
+200 
+Enlarged scale
+Breakdown
++ 200 
++ 100 
+0 
+– 100 
+– 200 
+Risk (global)
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 
+1 Columns represent contributions of individual shocks (historical breakdown) based on a BVAR model with sign restrictions. The es timation period begins in January 2000 and ends in December 2019. 
+Deutsche Bundesbank 
+TARGET fl ows was the then growing uncer tainty in the euro area, although global fac tors, too, still played a key role according to  the model. 
+The estimation results confi rm the suspicion  that the renewed positive TARGET fl ows be tween 2015 and 2017 were chiefl y attribut able to European monetary policy (i.e. the  APP) and only to a lesser extent to the risk  assessment within the euro area. 
+Finally, the results suggest that a large part  of the recent decline in German TARGET  claims recorded in 2018 and 2019 can be  ascribed to European monetary policy. The  Eurosystem initially made a gradual reduc 
+tion in the volume of net asset purchases  up to the end of 2018 and then discon tinued them entirely. It is only since Novem ber 2019 that the purchases have again  exceeded the volume of expired and re deemed securities in the portfolio. 
+All in all, the estimation results of the model  –  which was intentionally kept relatively  simple – confi rm the conjecture that Ger many’s TARGET balances have been infl u enced by various drivers over time. 
+Deutsche Bundesbank 
+Monthly Report 
+March 2020 
+34
+While demand focused primarily on euro denominated paper, German residents also in vested in foreign currency bonds in 2019. In  addition, they added foreign money market in struments worth €2 billion to their portfolios. 
+some instances not always conducive to invest ment abroad. The dampening factors included  subdued macroeconomic developments, but  also political uncertainties. These diminished  markedly in the second half of the year after  the United States and China reached a partial  
+Foreign shares  and other equity  in demand 
+Financial  
+derivatives 
+activity leads to  outflows 
+Global direct  investment virtu ally stagnant in  2019 
+Furthermore, German investors increasingly  purchased foreign investment fund certificates  (€53 billion) and shares (€14 billion). Inter national stock markets recorded considerable  gains last year. Despite the higher price risk  compared to debt securities, this encouraged  increased exposure to shares and other equity.  Net acquisition of investment fund certificates  almost doubled compared to the previous year.  These originated mainly from Luxembourg and  Ireland, where many of the companies that sell  funds in Germany are based. From these loca 
+tions, they invest funds on a worldwide basis,  for which reason no regional classification of  the actual target countries is possible. Among  direct share purchases, demand focused on  shares and other equity in US enterprises. 
+Financial derivatives, which are aggregated to  form a single item in the balance of payments,  recorded net capital exports of €22½ billion in  2019. The balance therefore remained largely  unchanged compared to 2018.16 Around three 
+fifths of the recorded capital outflows were  accounted for by futures transactions, with op tions generating the remaining two-fifths.  Cross-border forward and futures contracts  relating to electricity and gas, which are also  recorded under financial derivatives, resulted in  net capital imports totalling €1 billion. Monet ary financial institutions constituted the major ity of the domestic counterparties engaging in  internationally traded financial derivatives. 
+Direct investment 
+As things currently stand, global direct invest ment flows in 2019 were down slightly on the  previous year, following significantly steeper  declines in the two preceding years. Last year,  too, the global economic environment was in  
+agreement in their bilateral trade dispute and  signs of convergence emerged in the UK’s diffi cult exit negotiations on leaving the European  Union. The 2017 tax reform in the United  States, which led to significantly lower gross  foreign direct investment flows from the United  States and worldwide in 2018, continued to  have a detrimental effect. However, according  to estimates by the United Nations Conference  on Trade and Development (UNCTAD), these  effects weakened in 2019. In addition, accord 
+ing to UNCTAD’s still provisional data, in 2019  there were significantly fewer cross-border cor porate mergers and acquisitions than in 2018. 
+Overall, UNCTAD estimates that global direct  investment flows in 2019 fell by 1% on the  year.17 This decline masks divergent develop ments in individual countries and regions. For  example, direct investment flows to the EU fell  by roughly 15%, while those to North America  and the group of developing countries re mained at the previous year’s level. 
+Direct investment flows to and from Germany  also weakened in 2019 compared to 2018.  However, in 2018 they had been exceptionally  high, bucking the global trend. Overall, Ger 
+man net capital exports from direct investment  in 2019 came to €55½ billion, exceeding the  figure for 2018 by €51 billion. 
+German enterprises invested €101 billion  abroad in 2019, which was €47 billion lower  than the all-time high recorded in 2018. In a  longer-term comparison, German direct invest 
+16 There have been net outflows of funds for financial  derivatives in most years since 2012. Some of these out flows are attributable to settlement payments in connec tion with interest rate swaps concluded by domestic credit  institutions to hedge fixed-income securities against inter est rate risk. 
+17 See UNCTAD (2020). 
+Germany:  
+Falling direct  investment in  both directions  and rising net  capital exports 
+Domestic enter prises primarily  boosted their  equity capital  abroad … 
+ment abroad in 2019 was still marginally higher  than the average of the ten preceding years.  German enterprises primarily boosted their  equity capital abroad, which went up by a total  of €87 billion. This increase was achieved in  
+Deutsche Bundesbank 
+Monthly Report 
+March 2020 
+35
+Financial account 
+€ billion 
+… and to a  
+lesser extent  also intra-group  lending 
+Distribution  
+remains the key  motivating  
+factor, cost  
+savings gain in  importance 
+more or less equal measure via equity capital in  the narrower sense and reinvested earnings.  German enterprises that ramped up their equity  capital abroad came from various branches of  industry. Last year, three quarters of equity cap 
+ital, and thus the largest share, came from  enterprises providing financial and insurance  services.18 Cross-border corporate takeovers  played a smaller role last year than in 2018,  when the value of such takeovers was particu 
+larly high.19 
+German enterprises provided their affiliates  abroad with a further €14 billion via intra-group  lending, which took place exclusively in the  form of financial loans. For trade credits, by  contrast, repayments outweighed new lending. 
+Direct investment relationships are usually  geared to the long term. German enterprises  use these relationships to pursue various ob jectives. This is demonstrated by the annual  survey by the Association of German Chambers  of Commerce and Industry (DIHK) of its mem ber enterprises operating in the manufacturing  sector.20 According to this survey, strengthen ing distribution structures and customer service  remained an important reason for outward in vestment for a large proportion of enterprises  (just under 45%). Roughly one-third of enter prises hoped to gain better market access by  
+18 Reinvested earnings are not assigned to individual eco nomic sectors and are therefore excluded from this calcula tion. By the same token, the shares only relate to decipher able net transfers used to augment equity capital. 
+19 According to the Thomson Reuters database, in 2019  roughly €32½ billion was used to finance takeovers of  companies domiciled abroad and previously under foreign  ownership where the German stake after the transaction is  at least 10%. That was just under half the amount in 2018.  The time at which mergers and acquisitions are captured in  the balance of payments can, however, differ from that  recorded by Thomson Reuters, meaning that the reported  figures are not directly comparable. 
+20 See Association of German Chambers of Commerce  and Industry (DIHK) (2019) 
+Item 2017r 2018r 2019r Financial account balance1 + 283.2 + 236.9 + 204.6 1 Direct investment +  38.7 +  4.4 +  55.7 Domestic investment  
+abroad2 + 143.9 + 148.0 + 100.8 Foreign investment  
+in the reporting country2 + 105.2 + 143.6 +  45.1 2 Portfolio investment + 205.3 + 157.2 +  95.2 Domestic investment  
+in foreign securities2 + 115.5 +  83.2 + 123.7 Shares3 +  14.7 +  9.6 +  14.2 Investment fund shares4 +  58.6 +  28.3 +  52.9 Long-term debt  
+ securities5 +  42.7 +  41.6 +  54.5 Short-term debt  
+ securities6 –  0.5 +  3.8 +  2.0 Foreign investment  
+in domestic securities2 –  89.8 –  74.0 +  28.5 Shares3 –  0.7 –  30.7 –  6.4 Investment fund shares –  2.5 –  6.3 –  5.0 Long-term debt  
+ securities5 –  72.3 –  41.4 +  32.9 Short-term debt  
+ securities6 –  14.3 +  4.3 +  6.9 3 Financial derivatives7 +  11.0 +  23.1 +  22.4 4 Other investment8 +  29.5 +  51.8 +  31.9 Monetary fi nancial  
+ institutions9 –  38.5 +  85.8 +  19.3 Long-term +  12.1 +  12.9 +  7.2 Short-term –  50.6 +  72.9 +  12.1 
+Enterprises and households10 –  16.2 +  22.5 –  9.3 Long-term –  9.2 +  9.4 –  1.8 Short-term –  7.1 +  13.1 –  7.4 
+General government +  4.7 –  11.6 –  4.5 Long-term –  0.7 –  1.7 –  3.2 Short-term +  5.4 –  9.9 –  1.3 
+Bundesbank +  79.5 –  44.9 +  26.4 5 Reserve assets –  1.3 +  0.4 –  0.5 
+1 Increase in net external position: + / decrease in net external  position: -. 2 Increase: +. 3 Including participation certifi cates.  4 Including reinvestment of earnings. 5 Long- term: original ma turity of more than one year or unlimited. 6 Short- term: original  maturity of up to one year. 7  Balance of transactions arising  from options and fi nancial futures contracts as well as employee  stock options. 8 Includes in particular loans and trade credits as  well as currency and deposits. 9  Excluding the Bundesbank.  10  Includes the following sectors: fi nancial corporations (ex 
+cluding monetary fi nancial institutions) as well as non- fi nancial  corporations, households and non- profi t institutions serving  households. 
+Deutsche Bundesbank 
+Deutsche Bundesbank 
+Monthly Report 
+March 2020 
+36
+Direct investment 
+€ billion 
+German direct investment abroad 
+Direct investment loans 
+Equity capital 
+paratively high. However, the highest amount  of direct investment to a single country in 2019  was made in the United States, amounting to  €34½ billion. 
++ + + + + + + + 
+– 
+160 140 120 100 80 
+60 
+40 
+20 
+0 
+20 
+Foreign direct investment in Germany Direct investment loans 
+Equity capital 
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+2013 2014 2015 2016 2017 2018 2019 
+Domestic enterprises received €45 billion from  abroad in the form of direct investment in  2019. That was only about one-third of the all time high of €143½ billion recorded in 2018.  Foreign enterprises provided domestic enter prises with €24 billion in intra-group lending,  which occurred exclusively through the issu ance of financial loans. A large proportion of  this was made up of reverse flows, whereby  subsidiaries domiciled abroad provide financial  loans to their German parent companies. These  reverse flows are often the result of capital  
+Inflows of funds  from abroad  primarily via  financial loans 
+By region (2019) All countries 
+Euro area 
+Other 
+EU countries 
+market transactions involving German enter 
+prises’ financing subsidiaries in which securities  
+are issued abroad and the proceeds are passed  
+on to their parent companies in Germany. 
+German direct 
+investment abroad Other European  
+In 2019, investors in Europe again accounted  
+Enterprises from  
+countries 
+North America 
+Central and South America 
+Asia 
+Africa and 
+Oceania 
+Foreign direct investment in Germany 
+for the largest share of foreign direct invest ment in Germany, at €27 billion. Roughly €7½  billion of this amount came from other euro  area countries, with particularly large inflows  coming from Luxembourg and Ireland. This  contrasted with considerable return flows of  
+Europe and the  United States  invest particu larly heavily 
+Europe and the  United States  important target  regions 
+– 30 0 + 30 + 60 + 90 + 120 Deutsche Bundesbank 
+producing abroad, and just over one-quarter of  surveyed enterprises cited cost savings as a mo tivating factor in direct investment. The signifi cance of cost savings relative to other object ives therefore continued to increase somewhat  last year, according to the survey. 
+German enterprises invest in many countries  and regions throughout the world. Tradition ally, Europe is an important target region. Last  year, €54½ billion of German direct investment  abroad flowed to other European countries, of  which €49 billion flowed to euro area coun tries. Within Europe, investments in Luxem bourg, Italy and the Netherlands were com 
+funds to Belgium and the Netherlands, which  were primarily accounted for by repayments of  intra-group loans. Among European countries  outside of the euro area, a particularly large  volume of direct investment came from the  United Kingdom (€10½ billion). Outside of  Europe, investors from the United States in 
+vested particularly heavily in Germany (€12½  billion). 
+Other investment 
+Other investment, comprising financial and  trade credits (where these do not constitute a  part of direct investment) as well as bank de posits and other assets, resulted in net capital  exports of €32 billion in 2019, down from €52  billion in 2018. 
+Net capital  
+exports in other  investment 
+Capital outflows  from commer cial banks 
+Capital outflows in the banking sector were the  main driver here. Transactions of monetary  financial institutions excluding the Bundesbank  
+Other investment*  broken down by sector 
+Balances in € billion 
+Deutsche Bundesbank Monthly Report 
+March 2020 
+37
+led to capital exports of €19½ billion on bal + 
+100 
+ance. There was a contraction in their cross + 
+80 
+border liabilities, in particular, because foreign  + 
+60 
+institutions, and above all group-affiliated insti + 
+40 
++ 
+tutions, scaled back their deposits at domestic  
+20 
+0 
+banks. Year-end effects are not unusual for  – 
+20 
+these cross-border investments; however, the  – 
+40 
+outflows of funds recorded at the end of 2019  – 
+60 
+were particularly high. 
+2018 
+2019 
+Enterprises and 
+households 
+General 
+government 
+Monetary Bundesbank financial 
+institutions 1 
+It is possible that the ECB Governing Council’s  decision in September 2019 to introduce a  two-tier system for reserve remuneration also  played a role here. This arrangement came into  force at the end of October last year. Since  then, part of credit institutions’ excess liquidity  
+* Includes in particular loans and trade credits as well as cur rency and deposits; net capital exports: +. 1 Excluding the  Bundesbank. 
+Deutsche Bundesbank 
+TARGET2 and other investment  excluding TARGET2* 
+€ billion 
+holdings has been exempt from negative remu neration at the rate applicable on the deposit  + 
+100 
+facility. The new regime led individual commer + 
+75 
+cial banks to reallocate their central bank de + 
+50 
+posits in order to make better use of the avail + 
+25 
+able allowances. To some extent, they are likely  0 
+to have redistributed some of the liquidity  – 
+25 
+across borders. 
+– 
+50 
+– 
+75 
+In lending business, domestic credit institutions  increased their issuance of financial loans to  
+Other investment excluding TARGET2 
+2018 2019 
+Change in 
+TARGET2 balance 2018 2019 
++100 + 75 + 50 + 25 0 
+– 25 – 50 – 75 
+Bundesbank  accounts also  see outflows of  funds 
+enterprises and households abroad, but scaled  back, albeit to a lesser extent, their deposits at  group-affiliated institutions abroad. Overall,  this contributed to the aforementioned capital  exports. 
+Bundesbank accounts also recorded net capital  outflows in 2019, which amounted to €26½  billion. Movements in foreign liabilities played a  decisive role here. The Bundesbank’s liabilities  vis-à-vis non-residents fell by €97½ billion.  Monetary authorities and commercial banks  domiciled outside the euro area significantly  reduced their deposits at the Bundesbank on  the year, after increasing them by €101½ bil lion in 2018. The operations of these foreign  counterparties explain the turnaround in the  Bundesbank’s liabilities recorded in the balance  
+* Net capital exports: +. 
+Deutsche Bundesbank 
+of payments. At the end of a given year, the  deposits of non-euro area residents at the  Bundesbank often temporarily record a signifi cant increase. In 2018, this was especially pro nounced. There was also an end-of-year effect  in 2019, but this was much weaker than in the  preceding year. 
+In previous years, the APP had additionally led  to a rise in deposits of foreign commercial  banks at the Bundesbank.21 The Eurosystem  stopped making net purchases under the APP  from January to October 2019 and only re 
+21 See Deutsche Bundesbank (2019d), p. 40. 
+Deutsche Bundesbank 
+Monthly Report 
+March 2020 
+38
+sumed them in November, at a monthly pace  of €20 billion. 
+remained at the same level as in the previous  year. 
+Significant fall in  Bundesbank’s  claims on the  ECB 
+Non-banks  
+attract net  
+capital imports 
+The temporary suspension of net asset pur chases and the aforementioned outflows of  funds from the banking system also had an im pact on the Bundesbank’s TARGET2 claims on  the ECB. They fell in 2019 by a total of €71  billion on the year, which was the sharpest fall  since the beginning of 2013.22 By contrast, the  Bundesbank’s liabilities vis-à-vis the ECB arising  from the allocation of euro banknotes within  the Eurosystem went up by €34½ billion last  year. The Bundesbank’s net claims vis-à-vis the  ECB arising from the two balance sheet items  therefore fell by €105½ billion overall. 
+In other investment, non-banks received net  inflows of funds from abroad in 2019 (€14 bil lion). This was primarily attributable to net cap ital imports by enterprises and individuals (€9½  billion). The funds they raised abroad in 2019  stemmed in particular from financial loans.  Non-securitised foreign transactions by general  government led to an inflow of funds amount ing to €4½ billion net. General government  claims decreased, while its external liabilities  
+List of references 
+Reserve assets 
+Driven by transactions, the Bundesbank’s re serve assets fell by €½ billion in 2019. An  increase in the reserve position in the Inter national Monetary Fund and in special drawing  rights contrasted with a decline in other reserve  assets. 
+The international reserve holdings are also in fluenced by balance sheet adjustments which,  in compliance with internationally agreed ac counting standards, are not recognised in the  balance of payments. The end-of-year revalu ation of the reserve assets resulted in an in crease of €26½ billion in 2019. This was due  chiefly to rising gold prices. All in all, the bal ance sheet value of Germany’s reserve assets  rose by €26 billion in 2019, standing at €199½  billion as at 31 December 2019. 
+22 See Deutsche Bundesbank (2019e, 2017a, 2017b,  2016). 
+Slight decline in  reserve assets 
+Association of German Chambers of Commerce and Industry (DIHK) (2019), Auslandsinvestitionen  2019 – Gemeinsam weltweit, Sonderauswertung der DIHK-Konjunkturumfrage vom Jahresbeginn  2019. 
+Blum, U., J. Ragnitz, S. Freye, S. Scharfe and L. Schneider (2009), Regionalisierung öffentlicher  Ausgaben und Einnahmen: Eine Untersuchung am Beispiel der neuen Länder, IWH Special Issue  4/2009. 
+Deutsche Bundesbank (2019a), Outlook for the German economy – macroeconomic projections  for 2020 and 2021 and an outlook for 2022, Monthly Report, December 2019, pp. 15-36. 
+Deutsche Bundesbank (2019b), On the corporate payout ratio in Germany, Monthly Report, March  2019, pp. 24-27. 
+Deutsche Bundesbank (2019c), The evolution of German enterprises’ equity ratio, Monthly Report,  December 2019, pp. 44-46. 
+Deutsche Bundesbank 
+Monthly Report 
+March 2020 
+39
+Deutsche Bundesbank (2019d), German balance of payments in 2018, Monthly Report, March  2019, pp. 17-41. 
+Deutsche Bundesbank (2019e), Germany’s TARGET2 claims in 2018, Annual Report 2018, pp. 16-17. 
+Deutsche Bundesbank (2018a), The savings of non-financial corporations in Germany, Monthly  Report, March 2018, pp. 20-22. 
+Deutsche Bundesbank (2018b), The realignment of the Chinese economy and its global implica tions, Monthly Report, July 2018, pp. 39-56. 
+Deutsche Bundesbank (2017a), The increase in Germany’s TARGET2 claims, Monthly Report, March  2017, pp. 30-31. 
+Deutsche Bundesbank (2017b), TARGET2 balances – mirroring developments in financial markets,  Monthly Report, December 2017, pp. 75-76. 
+Deutsche Bundesbank (2016), The impact of Eurosystem securities purchases on the TARGET2  balances, Monthly Report, March 2016, pp. 53-55. 
+Deutsche Bundesbank (2015), Effects on the cross-border investment income balance: asset accu mulation, portfolio shifts and changes in yields, Monthly Report, March 2015, pp. 81-85. 
+Deutsche Bundesbank (1999), Die Zahlungsbilanz der ehemaligen DDR 1975 bis 1989. 
+European Commission (2020), Country Report Germany 2020. 2020 European Semester: Assess ment of progress on structural reforms, prevention and correction of macroeconomic imbalances,  and results of in-depth reviews under Regulation (EU) No 1176/2011, Brussels. 
+Federal Statistical Office (2000), Entstehung und Verwendung des Bruttoinlandsprodukts 1970 bis  1989, Sonderreihe mit Beiträgen für das Gebiet der ehemaligen DDR, Vol. 33. 
+International Monetary Fund (2009), Balance of Payments and International Investment Position  Manual, sixth edition (BPM6). 
+Knetsch, T. and A.  Nagengast (2017), Penny wise and pound foolish? On the income from  Germany’s foreign investments, Review of World Economics, Vol. 153, pp. 753-778. 
+UNCTAD (2020), Investment Trends Monitor, No 33, January 2020.
